@@ -1,0 +1,30 @@
+@import url('https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
+
+@font-face {
+    font-family: 'Galmuri11';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2506-1@1.0/Galmuri11-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+
+
+
+
+.stxt{
+    font-weight: 1.2rem;
+    color: #c9cbca;
+}
+
+.modal_txt_m{
+    font-size:1.1vw;
+    font-weight: 800;
+}
+
+.modal_txt_s{
+    font-size:1vw;
+}
+
+.footer_txt{
+    font-size: 0.8rem;
+    right: 0;
+}
